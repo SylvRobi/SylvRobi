@@ -3,7 +3,7 @@
 ########################################################################################################################
 
 # a) Obtenez la liste des attributs et méthodes offerts par le type d'objet retourné par Get-Culture.
-
+Get-Command -Name Get-Culture -Syntax
 
 # b) Affichez dans la console le caractère de séparation des décimales configuré dans les paramètres de langue
 
